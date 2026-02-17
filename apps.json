@@ -1,1 +1,16 @@
 
+[
+  {
+    "id": "1",
+    "slug": "bjm",
+    "name": "BJM (Bangladesh Jogajog Maddhom)",
+    "version": "1.0",
+    "category": "Communication",
+    "description": "বাংলাদেশের মানুষের জন্য তৈরি একটি নিরাপদ এবং দ্রুত যোগাযোগ মাধ্যম অ্যাপ। সরাসরি গিটহাব থেকে ডাউনলোড করুন।",
+    "icon_url": "https://raw.githubusercontent.com/nifad2005/BOT-App-Store/main/icons/bjm-logo.png",
+    "download_url": "/api/download/bjm",
+    "github_release_url": "https://github.com/nifad2005/BOT-App-Store/releases/download/BJM-v1.0/app-debug.apk",
+    "file_size": "42.8 MB",
+    "updated_at": "17 Feb 2026"
+  }
+]
